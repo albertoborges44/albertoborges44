@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Alberto Borges.
-- 👀 Interesse em Front-End
+- 👀 Interesse em full stack Web Developtment
 - 🌱 Atualmente estou aprendendo Vue.js e Java
 - 📫 Como entrar em contato comigo: albertoborges44@gmail.com
 
